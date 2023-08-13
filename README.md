@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu001656&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu001656" /> </p>
 
-- 🌱 I’m currently learning **Javan,React,php**
+- 🌱 I’m currently learning **Java,React,php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khushbu001656](https://github.com/Khushbu001656)
 
